@@ -4,3 +4,4 @@
 - [Question 2](https://github.com/Yashika-Kadiyan/DataScience0001/issues/2)
 
 ~ [Array]
+- [Question 1](https://github.com/Yashika-Kadiyan/DataScience0001/issues/4)
