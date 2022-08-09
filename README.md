@@ -5,3 +5,8 @@
 
 ~ [Array]
 - [Question 1](https://github.com/Yashika-Kadiyan/DataScience0001/issues/4)
+- [Question 2](https://github.com/Yashika-Kadiyan/DataScience0001/issues/5)
+- [Question 3]()
+- [Question 4]()
+- [Question 5]()
+- 
